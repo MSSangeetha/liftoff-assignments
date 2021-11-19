@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I love cooking and always write my recipes in a note book.  When I thought about my project plan for launchcode, the first think came to my mind was to create a website to save my recipes.  On a high level, I am planning to have a website to view all the recipes, add a new recipe, search for a recipe. I believe this kind of app will be useful to anybody to store the recipes they like.
+
 ### Features
-Include Features here
+The Features in this website would be,
+- User Login -> New User can register and create an account.
+- View All -> View all the Recipes
+- Search -> Search for a recipe with a keyword
+- Add -> Add a new recipe
+
 ### Technologies
-Include Technologies here
+Technologies to be used,
+- Java
+- SpringBoot
+- MySql
+- Thymeleaf Templates
+- Hibernate
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I think this project is going to be challenging and I will have more chances to learn something new.
+I really love web designing and thinking to make the page look appealing by adding css and images.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/VQ1qDRzk/recipe-management-software
